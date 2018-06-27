@@ -1,4 +1,4 @@
 # World-Cup-Prono
 
 
-![image](prono.png)
+![image](prono.jpg)
